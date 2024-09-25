@@ -2,7 +2,7 @@
 //  navsplitviewtestApp.swift
 //  navsplitviewtest
 //
-//  Created by Mohammed Amine AZAROU on 25/09/2024.
+//  Created by Mohammed Amine AZAROU on 24/09/2024.
 //
 
 import SwiftUI
@@ -11,7 +11,7 @@ import SwiftUI
 struct navsplitviewtestApp: App {
     var body: some Scene {
         WindowGroup {
-            ContentView()
+            RootView()
         }
     }
 }
